@@ -1,0 +1,22 @@
+
+body { 
+
+	background-color:white;
+}
+h1{
+	color:black;
+}
+h3{
+	color:maroon;
+}
+.boldClass{
+	font-size: 40px;
+}
+
+p{
+	word-break: break-all;
+}
+
+.adjust {
+	margin-left: 100px;
+}
